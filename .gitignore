@@ -7,3 +7,7 @@ logs/*
 scripts/cookie*
 jsconfig.json
 scripts/xsec_calc_auto/.crab_word
+client/out.log
+client/package-lock.json
+# client/package.json
+out.log
